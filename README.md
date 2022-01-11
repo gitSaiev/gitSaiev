@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Saiev Magomed
+- 👀 I’m interested in IT, Backend, Web
+- 🌱 I’m currently learning Java
+- 📱  Telegram - @saievmaga
+- 📫 E-Mail - saievmuhammad@mail.ru
