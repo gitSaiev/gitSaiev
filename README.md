@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Saiev Magomed
 - 🚀 I started my path to programming in January 2021
-- 👀 I’m interested in IT - Backend, Web
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning - Java
 - 📱  Telegram - @saievmaga
 - 📫 E-Mail - saievmuhammad@mail.ru
