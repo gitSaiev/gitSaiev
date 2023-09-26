@@ -1,2 +1,2 @@
-- 📱  Telegram - @saievmaga
-- 📫 E-Mail - saievmuhammad@mail.ru
+- 📱  Telegram - @devmaga
+- 📫 E-Mail - 56ivn@mail.ru
